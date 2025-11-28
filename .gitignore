@@ -1,0 +1,27 @@
+# Virtual environments
+myenv/
+env/
+venv/
+.venv/
+ENV/
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.development
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (optional - but large files shouldn't be in git)
+*.csv
+*.pkl
+*.parquet
