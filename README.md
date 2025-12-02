@@ -158,8 +158,9 @@ See `requirements.txt` for full dependency list.
 
 ## 📄 Reports
 
-- **[Interim Report](docs/interim_report.md)**: Task 1 & partial Task 2
-- **[Final Report](docs/final_report.md)**: Complete analysis with recommendations
+- **[Interim Report](docs/WEEK%202%20INTERIM%20REPORT_%20CUSTOMER%20EXPERIENCE%20ANALYTICS%20FOR%20FINTECH%20APPS.pdf)**: Task 1 & partial Task 2
+- **[Final Report](docs/WEEK_2_FINAL%20REPORT_%20CUSTOMER%20EXPERIENCE%20ANALYTICS%20FOR%20ETHIOPIAN%20FINTECH%20APPS.pdf)**: Complete analysis with recommendations
+
 
 ## 🤝 Contributing
 
